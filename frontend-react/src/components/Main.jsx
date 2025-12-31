@@ -1,11 +1,14 @@
 import React from 'react'
 import Button from './button.jsx'
+import Header from './header.jsx'
+import Footer from './footer.jsx'
+
 
 
 const main = () => {
   return (
     <>
-
+        
         <div className='container'>
             <div className='p-5 text-center bg-light-dark rounded'>
                 <h1 className='text-light'>Stock Prediction Portal</h1>
